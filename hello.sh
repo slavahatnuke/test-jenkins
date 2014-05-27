@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "hello9" & errr();
+echo "hello9" & ZZZZZZZ();
