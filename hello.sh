@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "hello4" &&&&& ERRRRR();
+echo "hello" &&&&& ERRRRR() && 5;
